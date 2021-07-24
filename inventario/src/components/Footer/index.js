@@ -10,8 +10,8 @@ const Footer = () =>{
         <span>&copy; Alguns Diretos Reservados</span>
       </div>
       <nav>
-        <a href="http://github.com"><FaGithub /></a>
-        <a href="http://github.com"><FaLinkedin /></a>
+        <a href="https://github.com/allyssonalmeida/"><FaGithub /></a>
+        <a href="https://www.linkedin.com/in/allysson-fernando-guedes-de-almeida-515437bb/"><FaLinkedin /></a>
       </nav>
     </FooterContainer>
   );
