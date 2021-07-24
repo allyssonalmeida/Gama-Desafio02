@@ -23,4 +23,6 @@ Versão Funcional - [https://gama-desafio02.vercel.app/]
 
 Como houve uma confusão sobre o que fazer para o desafio, também desenvolvi uma pequena loja virtual utilizando React
 
+- Versão Funcional [https://techstore-bay.vercel.app/]
+- Repositório no GitHub [https://github.com/allyssonalmeida/Desafio-2-Gama-Academy]
 
